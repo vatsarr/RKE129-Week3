@@ -1,0 +1,40 @@
+body {
+  background-color: bisque;
+  font-family: 'Poppins', sans-serif;
+}
+
+.title {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.big-box {
+  border: 3px solid gray;
+  width: 50%;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+.red-circle {
+  width: 200px; 
+  height: 200px; 
+  border: 2px solid red; 
+  border-radius: 50%; 
+  margin: 0 auto;
+}
+
+.yellow-circle {
+  width: 200px;
+  height: 200px;
+  border: 2px solid yellow;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.green-circle {
+  width: 200px;
+  height: 200px;
+  border: 2px solid green;
+  border-radius: 50%;
+  margin: 0 auto;
+}
