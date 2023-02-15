@@ -8,6 +8,11 @@ body {
   font-size: 2rem;
 }
 
+.heading {
+  font-size: 4rem;
+  color: darkgreen;
+}
+
 .big-box {
   border: 3px solid gray;
   width: 50%;
@@ -15,26 +20,25 @@ body {
   padding: 15px;
 }
 
-.red-circle {
+.circle {
   width: 200px; 
   height: 200px; 
-  border: 2px solid red; 
+  border: 2px solid; 
   border-radius: 50%; 
   margin: 0 auto;
 }
 
-.yellow-circle {
-  width: 200px;
-  height: 200px;
-  border: 2px solid yellow;
-  border-radius: 50%;
-  margin: 0 auto;
+#red {
+  border-color: red;
+}
+#yellow{
+  border-color: yellow;
+}
+#green {
+  border-color: green;
 }
 
-.green-circle {
-  width: 200px;
-  height: 200px;
-  border: 2px solid green;
-  border-radius: 50%;
-  margin: 0 auto;
+hr {
+  margin: 1rem auto;
+  width: 75%;
 }
