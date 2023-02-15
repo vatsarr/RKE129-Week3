@@ -20,7 +20,7 @@ table {
 img {
   display: block;
   margin: 20px auto;
-  width: 15%;
+  max-width: 40%;
 }
 
 ul{
